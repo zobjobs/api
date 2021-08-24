@@ -16,7 +16,7 @@ type: npm init -y
 
 Install some node-modules 
 
-type npm install --save moment
+type npm install --save request
 
 create a file called index.js
 
