@@ -1,8 +1,5 @@
-# zobjobs.com 
-
-# Node.js API example 
-
-* Contact us for any advice via our website *
+# zobjobs.com - Node.js API example 
+* Contact us for any advice via our website
 
 
 Install NPM & Node.js
