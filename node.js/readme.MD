@@ -20,6 +20,16 @@ type npm install --save request
 
 create a file called index.js
 
+Copy the contents into index.js
+
+Run the script
+
+node index.js
+
+
+Any questions send us a message at zobjobs.com
+
+
 
 
 
